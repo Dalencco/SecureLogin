@@ -9,3 +9,9 @@
     <img align="center" src="https://c.tenor.com/rDcxSVdr7qoAAAAC/itachi-uchiha.gif" /><br><br>
   </p>
 </center>
+
+---
+
+<center>
+  <p align="center">◞ Copyright Xerbuff ◟</p>
+</center>
