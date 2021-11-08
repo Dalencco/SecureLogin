@@ -13,5 +13,5 @@
 ---
 
 <center>
-  <p align="center">◞ Copyright Xerbuff ◟</p>
+  <p align="center">◞ Copyright © Xerbuff ◟</p>
 </center>
