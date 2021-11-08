@@ -1,5 +1,5 @@
 <center>
-  <p align="center">Basic Secure Login</p>
+  <p align="center">Basic Secure Login by Xerbuff</p>
 </center>
 
 <center>
